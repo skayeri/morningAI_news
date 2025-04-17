@@ -15,6 +15,6 @@ https://skayeri.github.io/morningAI_news/
 - `index.html`: 뉴스 뷰 UI
 - `style.css`: 스타일시트
 - `script.js`: 동적 데이터 렌더링
-- `readme.md`: readme
+- `README.md`: readme
 
 > 개인 비서처럼 매일 나만을 위해 뉴스를 정리해주는 도구입니다 🌤
