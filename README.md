@@ -2,6 +2,8 @@
 
 매일 아침 주요 AI 뉴스를 수집해 깔끔한 카드 UI로 보여주는 대시보드입니다.
 
+https://skayeri.github.io/morningAI_news/
+
 ## 🛠 구성
 
 - `crawler/`
