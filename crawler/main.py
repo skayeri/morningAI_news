@@ -26,7 +26,7 @@ def crawl():
     articles = []
     for source, rss_url in sites.items():
         feed = feedparser.parse(rss_url)
-        for entry in feed.entries[:5]:
+        for entry in feed.entries[:4]:
             thumbnail = get_thumbnail(entry.link)
             if not thumbnail:
                 thumbnail = "assets/default.png"  # 기본 썸네일로 대체
