@@ -11,7 +11,7 @@ h1 {
 
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(280px, 1fr)); /* 기본 4개의 열 */
+  grid-template-columns: repeat(4, minmax(200px, 1fr)); /* 기본 4개의 열 */
   gap: 20px;
   padding: 20px;
 }
@@ -52,13 +52,13 @@ h1 {
 /* 미디어 쿼리로 반응형 디자인 적용 */
 @media (max-width: 1200px) {
   .news-grid {
-    grid-template-columns: repeat(3, minmax(280px, 1fr)); /* 화면 크기가 1200px 이하일 때 3개의 열로 */
+    grid-template-columns: repeat(3, minmax(200px, 1fr)); /* 화면 크기가 1200px 이하일 때 3개의 열로 */
   }
 }
 
 @media (max-width: 900px) {
   .news-grid {
-    grid-template-columns: repeat(2, minmax(280px, 1fr)); /* 화면 크기가 900px 이하일 때 2개의 열로 */
+    grid-template-columns: repeat(2, minmax(200px, 1fr)); /* 화면 크기가 900px 이하일 때 2개의 열로 */
   }
 }
 
