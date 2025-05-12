@@ -27,12 +27,15 @@ def crawl():
     for source, rss_url in sites.items():
         feed = feedparser.parse(rss_url)
         for entry in feed.entries[:5]:
+            thumbnail = get_thumbnail(entry.link)
+            if not thumbnail:
+                thumbnail = "assets/default.png"  # 기본 썸네일로 대체
             articles.append({
                 "title": entry.title,
                 "link": entry.link,
                 "published": entry.get("published", ""),
                 "source": source,
-                "thumbnail": get_thumbnail(entry.link)
+                "thumbnail": thumbnail
             })
 
     os.makedirs("feeds", exist_ok=True)
