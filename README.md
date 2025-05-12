@@ -65,7 +65,8 @@ GitHub Pages에 자동 반영됩니다.
 
 ### 🎨 데모 UI (스크린샷)
 
-![image](https://github.com/user-attachments/assets/5a7b9802-dac5-4b36-8c50-e575300ed957)
+![스크린샷 2025-05-12 232705](https://github.com/user-attachments/assets/9a038645-6c1f-46d2-90f5-f494b24cd947)
+
 
 ### 📌 TODO (계획 중)
 - [ ] 기사 날짜 추가
