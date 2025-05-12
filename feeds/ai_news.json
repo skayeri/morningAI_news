@@ -1,0 +1,75 @@
+{
+  "updated": "2025-05-12T22:16:05.977583",
+  "articles": [
+    {
+      "title": "화웨이, 자체 '어센드' 칩에 최적화된 MoE 모델 출시...\"딥시크-R1 능가\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=170366",
+      "published": "2025-05-12 18:00:00",
+      "source": "AITimes",
+      "thumbnail": "https://cdn.aitimes.com/news/thumbnail/202505/170366_186288_1437_v150.jpg"
+    },
+    {
+      "title": "교황, 레오 14세로 이름 정한 이유로 AI 꼽아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=170357",
+      "published": "2025-05-12 18:00:00",
+      "source": "AITimes",
+      "thumbnail": "https://cdn.aitimes.com/news/thumbnail/202505/170357_186280_2226_v150.jpg"
+    },
+    {
+      "title": "외부 데이터 없이 스스로 배우고 성장하는 '자기주도형' 추론 모델 등장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=170356",
+      "published": "2025-05-12 18:00:00",
+      "source": "AITimes",
+      "thumbnail": "https://cdn.aitimes.com/news/thumbnail/202505/170356_186277_56_v150.jpg"
+    },
+    {
+      "title": "자연어로 원하는 블럭 만들어 주는 '레고GPT' 오픈 소스 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=170352",
+      "published": "2025-05-12 18:00:00",
+      "source": "AITimes",
+      "thumbnail": "https://cdn.aitimes.com/news/thumbnail/202505/170352_186265_912_v150.jpg"
+    },
+    {
+      "title": "미국 정부, 마누스의 미국 자본 투자 유치 적정성 조사",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=170342",
+      "published": "2025-05-12 18:00:00",
+      "source": "AITimes",
+      "thumbnail": "https://cdn.aitimes.com/news/thumbnail/202505/170342_186249_256_v150.jpg"
+    },
+    {
+      "title": "The Download: a new form of AI surveillance, and the US and China’s tariff deal",
+      "link": "https://www.technologyreview.com/2025/05/12/1116307/the-download-a-new-form-of-ai-surveillance-and-the-us-and-chinas-tariff-deal/",
+      "published": "Mon, 12 May 2025 12:10:00 +0000",
+      "source": "MITTechReview",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/05/Veritone-Track-product-demo2-crop.png?resize=1200,600"
+    },
+    {
+      "title": "How a new type of AI is helping police skirt facial recognition bans",
+      "link": "https://www.technologyreview.com/2025/05/12/1116295/how-a-new-type-of-ai-is-helping-police-skirt-facial-recognition-bans/",
+      "published": "Mon, 12 May 2025 09:00:00 +0000",
+      "source": "MITTechReview",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/05/Veritone-Track-product-demo2-crop.png?resize=1200,600"
+    },
+    {
+      "title": "How cloud and AI transform and improve customer experiences",
+      "link": "https://www.technologyreview.com/2025/05/09/1116257/how-cloud-and-ai-transform-and-improve-customer-experiences/",
+      "published": "Fri, 09 May 2025 15:17:09 +0000",
+      "source": "MITTechReview",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/05/Infosys-ADT-webcast-thumbnail-V2.jpg?resize=1200,600"
+    },
+    {
+      "title": "The Download: AI headphone translation, and the link between microbes and our behavior",
+      "link": "https://www.technologyreview.com/2025/05/09/1116247/the-download-ai-headphone-translation-and-the-link-between-microbes-and-our-behavior/",
+      "published": "Fri, 09 May 2025 12:10:00 +0000",
+      "source": "MITTechReview",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/05/headphones-translate.jpg?resize=1200,600"
+    },
+    {
+      "title": "Your gut microbes might encourage criminal behavior",
+      "link": "https://www.technologyreview.com/2025/05/09/1116211/gut-microbes-criminal-behavior/",
+      "published": "Fri, 09 May 2025 09:00:00 +0000",
+      "source": "MITTechReview",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/05/cats-con.jpg?resize=1200,600"
+    }
+  ]
+}
