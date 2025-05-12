@@ -11,7 +11,7 @@ h1 {
 
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* 자동으로 칸을 채우며, 최소 280px 크기로 설정 */
   gap: 20px;
   padding: 20px;
 }
@@ -46,4 +46,23 @@ h1 {
 .card-body a {
   color: #007BFF;
   text-decoration: none;
+}
+
+/* 미디어 쿼리로 반응형 디자인 적용 */
+@media (max-width: 1200px) {
+  .news-grid {
+    grid-template-columns: repeat(3, 1fr); /* 화면 크기가 1200px 이하일 때 3개의 열로 */
+  }
+}
+
+@media (max-width: 900px) {
+  .news-grid {
+    grid-template-columns: repeat(2, 1fr); /* 화면 크기가 900px 이하일 때 2개의 열로 */
+  }
+}
+
+@media (max-width: 600px) {
+  .news-grid {
+    grid-template-columns: 1fr; /* 화면 크기가 600px 이하일 때 1개의 열로 */
+  }
 }
