@@ -11,7 +11,7 @@ h1 {
 
 .news-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* 자동으로 칸을 채우며, 최소 280px 크기로 설정 */
+  grid-template-columns: repeat(4, 1fr); /* 기본 4개의 열 */
   gap: 20px;
   padding: 20px;
 }
