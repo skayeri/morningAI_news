@@ -1,4 +1,4 @@
-fetch("news.json")
+fetch("ai_news.json")
   .then((res) => res.json())
   .then((data) => {
     const container = document.getElementById("news-container");
