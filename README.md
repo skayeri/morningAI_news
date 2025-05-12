@@ -35,7 +35,6 @@ morningAI_news
 
 ```bash conda install -c conda-forge feedparser beautifulsoup4 requests```
 
-<br><br>
 #### 2. 사이트 목록 수정 (crawler/site_list.json)
 ```json
 [
@@ -45,13 +44,12 @@ morningAI_news
 ]
 ```
 
-<br><br>
 #### 3. 크롤링 실행
 ```bash
 cd crawler
 python crawler.py
 ```
-<br><br>
+
 #### 4. GitHub Pages에서 확인
 크롤링 후 ai_news.json이 최신 뉴스로 업데이트되며,
 GitHub Pages에 자동 반영됩니다.
