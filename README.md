@@ -19,10 +19,10 @@ Python으로 뉴스 RSS 피드를 크롤링하여 `ainews.json`을 생성하고,
 ### 🗂️ 프로젝트 구조
 
 ```
-morningAI_news/
-├── assets/
+morningAI_news
+├── assets
 │   └── default.png
-├── crawler/
+├── crawler
 │   ├── crawler.py
 │   ├── site_list.json
 │   └── utils.py
