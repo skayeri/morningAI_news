@@ -12,7 +12,7 @@ Python으로 뉴스 RSS 피드를 크롤링하여 `ainews.json`을 생성하고,
 - ✅ 썸네일, 제목, 링크를 카드 형태로 시각화
 - ✅ Python 실행 한 번으로 새 데이터 반영
 - ✅ 깔끔하고 심플한 HTML/CSS UI
----
+
 ### 🗂️ 프로젝트 구조
 morningAI_news/
 ├── assets/
@@ -52,8 +52,11 @@ python crawler.py
 크롤링 후 ainews.json이 최신 뉴스로 업데이트되며,
 GitHub Pages에 자동 반영됩니다.
 
+---
+
 ### 🎨 데모 UI (스크린샷)
 
+---
 
 ### 📌 TODO (계획 중)
 - [ ]기사 날짜 추가
