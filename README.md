@@ -6,13 +6,13 @@ Python으로 뉴스 RSS 피드를 크롤링하여 `ainews.json`을 생성하고,
 👉 [사이트 바로가기](https://skayeri.github.io/morningAI_news/)
 
 
-### 🧠 주요 기능
+## 🧠 주요 기능
 
 - ✅ 주요 IT/AI 뉴스 사이트에서 기사 자동 수집
 - ✅ 썸네일, 제목, 링크를 카드 형태로 시각화
 - ✅ Python 실행 한 번으로 새 데이터 반영
 - ✅ 깔끔하고 심플한 HTML/CSS UI
-
+---
 ### 🗂️ 프로젝트 구조
 morningAI_news/
 ├── assets/
