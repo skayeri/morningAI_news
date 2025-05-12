@@ -25,7 +25,7 @@ morningAI_news
 ├── ainews.json
 └── README.md
 ```
-<br><br>
+
 ## 🛠️ 사용법
 
 #### 1. 필수 라이브러리 설치
