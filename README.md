@@ -38,8 +38,7 @@ morningAI_news
 
 #### 3. 크롤링 실행
 ```bash
-cd crawler
-python crawler.py
+python crawler/main.py
 ```
 
 #### 4. GitHub Pages에서 확인
