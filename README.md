@@ -32,14 +32,9 @@ morningAI_news
 
 ```bash conda install -c conda-forge feedparser beautifulsoup4 requests```
 
-#### 2. 사이트 목록 수정 (crawler/site_list.json)
-```json
-[
-  "https://news.hada.io/rss",
-  "https://brunch.co.kr/rss",
-  "https://digitaltoday.co.kr/rss"
-]
-```
+#### 2. 사이트 목록 수정 (crawler/site.yaml)
+
+뉴스를 가져 올 사이트 목록을 입력하세요
 
 #### 3. 크롤링 실행
 ```bash
